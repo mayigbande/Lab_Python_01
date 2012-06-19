@@ -1,0 +1,48 @@
+Exercise 1:
+1.x
+2.length
+3.NUMBER
+4.Android_phone1
+
+Exercise 2
+a.Boolean
+b.float
+c.string
+d.int 
+e.string
+f.int
+h.boolean
+i.string
+j.string
+
+Exercise 3:
+1.False
+2.True
+3.True
+4.True 
+5.False
+6.True
+
+Exercise 4:
+firstname=raw_input('Enter your first name:')
+lastname=raw_input('Enter your last name:')
+birth='Enter your date of birth:'
+
+print birth
+month=raw_input('Month?')
+day=raw_input('Day?')
+year=raw_input('year?')
+print firstname,lastname,'was born on',month,day,',',year
+
+
+output:
+Enter your first name:Mayi 
+Enter your last name:Gbande
+Enter your date of birth:
+Month?september
+Day?10
+year?1989
+Mayi  Gbande was born on september 10 , 1989
+
+
+
